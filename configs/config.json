@@ -1,0 +1,7 @@
+{
+    "env_name": "FrozenLake-v1",
+    "is_slippery": true,
+    "log_file": "logs/training.log",
+    "q_table_file": "models/q_table.npy",
+    "reward_plot": "plots/training_plot.png"
+  }
